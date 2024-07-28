@@ -12,7 +12,7 @@ This repository contains a script for testing image classification using a YOLOv
 
 To run this script, you'll need to have the following dependencies installed:
 
-- [Python 3.x](https://www.python.org/downloads/)
+- [Python 3](https://www.python.org/downloads/)
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) (Install via `pip install ultralytics`)
 - [OpenCV](https://opencv.org/) (Install via `pip install opencv-python`)
 - [Pathlib](https://docs.python.org/3/library/pathlib.html) (Included in Python 3.4+)
